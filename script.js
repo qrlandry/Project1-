@@ -1,3 +1,4 @@
+// credit to knifecircus for help on animation functions
 // bring in elements from HTML
 const tube = document.querySelector('#tube');
 const hole = document.querySelector('#hole');
